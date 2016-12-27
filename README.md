@@ -1,2 +1,3 @@
 # FileShare
-A Java bases Client-Server File sharing application.
+A Java based Client-Server File sharing application.
+Under construction.
